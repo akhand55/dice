@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+  background-color: gray;
+  color: greenyellow;
+}
+.header{
+    display: flex;
+    justify-content: center;
+}
+h1{
+    font-size: 60px;
+}
+.container{
+    display: flex;
+    justify-content: space-evenly ;
+}
+.dice p{
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+    font-weight: 600;
+}
+img{
+    width: 140px;
+    height:140px ;
+}
